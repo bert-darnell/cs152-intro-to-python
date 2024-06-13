@@ -1,2 +1,6 @@
-# cs152-intro-to-python
-Classes taken at Park University between 03/15/2021 and 05/09/2021
+# CS152 Introduction to Python Programming
+
+This course was my first programming experience.
+
+<h4>Affiliation</h4>
+CS240 Web Programming is provided by Park University and taught by Dr. Michael Bond from March 15th, 2021, to May 9th, 2021.
